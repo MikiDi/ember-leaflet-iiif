@@ -1,13 +1,17 @@
 {
   "name": "ember-leaflet-iiif",
   "version": "0.0.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Addon bringing leaflet IIIF viewer to ember-leaflet",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "ember-leaflet"
   ],
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MikiDi/ember-leaflet-iiif.git"
+  },
   "license": "MIT",
-  "author": "",
+  "author": "Michaël Dierick",
   "directories": {
     "doc": "doc",
     "test": "tests"
